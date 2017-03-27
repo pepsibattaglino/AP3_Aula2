@@ -10,6 +10,12 @@ public class AP3_Aula2_ex1 {
         
         s.carregaVet();
         s.lerVet();
+        s.calculaMaior();
+        s.lerMaior();
+        s.calculaMenor();
+        s.lerMenor();
+        s.ordenaVet();
+        s.lerVet();
     }
     
 }
